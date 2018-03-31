@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 email: christakis@canet.me.uk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.canet.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.canet.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: takisangeli
 github_username:  darkalchemist
 repository: darkalchemist/canet-blog
@@ -135,7 +135,7 @@ author:
   bio              : ""
   location         : "London, England"
   email            : "christakis@canet.me.uk"
-  uri              : "https://www.canet.me.uk"
+  uri              : "http://www.canet.me.uk"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
