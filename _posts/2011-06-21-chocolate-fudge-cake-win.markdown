@@ -4,7 +4,7 @@ date: '2011-06-21 19:32:00'
 tags:
 - food
 - cooking
-- cake-2
+- cake
 ---
 
 One thing to note is that I did not come up with this recipe myself but it was sent to me by a friend a long time ago who found it in a magazine or something...

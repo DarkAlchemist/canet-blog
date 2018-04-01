@@ -4,7 +4,7 @@ date: '2013-06-30 13:44:30'
 tags:
 - linux
 - technology
-- ssl-2
+- ssl
 ---
 
 For a long time now, i've used self-signed certificates to provide HTTPS access to my personal websites (including this one!), however, this does get on my nerves with the general nagging that browsers tend to do. Also, it breaks IMAP access on my PS Vita (I run my own mail server).
