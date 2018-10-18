@@ -54,7 +54,7 @@ locale                   : "en-GB"
 title                    : "Transmuting Reality"
 title_separator          : "-"
 name                     : "Christakis Angeli"
-description              : "An amazing website."
+description              : "Cooking in the DevOps kitchen (sometimes literally!)"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
