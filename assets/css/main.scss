@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+a {text-decoration: none; }
+
+.archive__item-title {
+    font-family: $global-font-family;
+    font-size: $type-size-5;
+}
+
+.archive__item-excerpt {
+    font-family: $global-font-family;
+    font-size: $type-size-7;
+}
+
+.page__title {
+    font-family: $global-font-family;
+    font-size: $type-size-4;
+}
+
+.page__content {
+    font-family: $global-font-family;
+    font-size: $type-size-6;
+}

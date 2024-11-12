@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 email: christakis@canet.me.uk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.canet.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: takisangeli
-github_username:  darkalchemist
-repository: darkalchemist/canet-blog
+url: "https://www.canet.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: _christakis
+#github_username:  darkalchemist
+#repository: darkalchemist/canet-blog
 
 # Build settings
 markdown: kramdown
@@ -39,7 +39,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Theme Settings
 #
@@ -48,7 +48,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -136,7 +136,7 @@ author:
   bio              : ""
   location         : "London, England"
   email            : "christakis@canet.me.uk"
-  uri              : "http://www.canet.me.uk"
+  uri              : "https://www.canet.me.uk"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -144,11 +144,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DarkAlchemist"
+  github           : "christakis-angeli"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "darkalchemist"
+  instagram        : alchemistphotographic
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -156,7 +156,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "takisangeli"
+  twitter          : #"_christakis"
   vine             :
   weibo            :
   xing             :

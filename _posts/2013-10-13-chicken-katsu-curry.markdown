@@ -5,6 +5,7 @@ tags:
 - main-course
 - chicken
 - food
+- cooking
 ---
 
 This is the Chicken Katsu Curry recipe lifted off of the BBC Good Food website before it was removed (if someone has the Author's details, I'll add here). It's a brilliant recipe that always turns out well for me, hence I'm posting it here for reference.
